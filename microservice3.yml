@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: microservice3
+  datasource:
+    url: jdbc:postgresql://localhost:5432/microservice3db
+    username: postgres
+    password: 14092003
